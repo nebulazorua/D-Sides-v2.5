@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-685
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				-635
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-578
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-705
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-629
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF DOWN MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				39,
+				-685
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF LEFT NOTE0"
+		},
+		{
+			"offsets": [
+				0,
+				-578
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF UP NOTE0"
+		},
+		{
+			"offsets": [
+				32,
+				-704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF RIGHT NOTE0"
+		},
+		{
+			"offsets": [
+				57,
+				-694
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF DOWN NOTE0"
+		},
+		{
+			"offsets": [
+				430,
+				-410
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-F",
+			"loop": false,
+			"name": "BF DOWN NOTE ALT0"
+		},
+		{
+			"offsets": [
+				450,
+				-410
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-F",
+			"loop": false,
+			"name": "BF UP NOTE ALT0"
+		},
+		{
+			"offsets": [
+				442,
+				-407
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-F",
+			"loop": false,
+			"name": "BF LEFT NOTE ALT0"
+		},
+		{
+			"offsets": [
+				458,
+				-404
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-F",
+			"loop": false,
+			"name": "BF RIGHT NOTE ALT0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bfPixel",
+	"position": [
+		1490,
+		230
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		226,
+		87,
+		216
+	],
+	"camera_position": [
+		600,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

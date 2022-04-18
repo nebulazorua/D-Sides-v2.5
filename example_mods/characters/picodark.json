@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-26
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-10
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				43
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-98
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"offsets": [
+				17,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Pico Shoot"
+		},
+		{
+			"offsets": [
+				-60,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reload",
+			"indices": [],
+			"name": "Pico Gun Charge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-5
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Pico Shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Pico Shoot"
+		},
+		{
+			"offsets": [
+				15,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Pico Shoot"
+		},
+		{
+			"offsets": [
+				18,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Pico Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_FNF_assetssDARK",
+	"position": [
+		125,
+		270
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		151,
+		195
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

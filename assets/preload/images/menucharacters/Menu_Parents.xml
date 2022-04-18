@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Parents.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Parents Idle0000" x="0" y="0" width="1828" height="1384" pivotX="347.1" pivotY="243.85" frameX="0" frameY="-40" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0001" x="0" y="0" width="1828" height="1384" frameX="0" frameY="-40" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0002" x="0" y="1384" width="1807" height="1387" frameX="-2" frameY="-33" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0003" x="0" y="1384" width="1807" height="1387" frameX="-2" frameY="-33" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0004" x="0" y="2771" width="1816" height="1376" frameX="-23" frameY="-23" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0005" x="0" y="2771" width="1816" height="1376" frameX="-23" frameY="-23" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0006" x="0" y="4147" width="1834" height="1392" frameX="-26" frameY="-2" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0007" x="0" y="4147" width="1834" height="1392" frameX="-26" frameY="-2" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0008" x="0" y="5539" width="1835" height="1389" frameX="-27" frameY="0" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0009" x="0" y="5539" width="1835" height="1389" frameX="-27" frameY="0" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0010" x="0" y="5539" width="1835" height="1389" frameX="-27" frameY="0" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0011" x="0" y="5539" width="1835" height="1389" frameX="-27" frameY="0" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0012" x="0" y="5539" width="1835" height="1389" frameX="-27" frameY="0" frameWidth="1862" frameHeight="1424"/>
+	<SubTexture name="M Parents Idle0013" x="0" y="5539" width="1835" height="1389" frameX="-27" frameY="0" frameWidth="1862" frameHeight="1424"/>
+</TextureAtlas>

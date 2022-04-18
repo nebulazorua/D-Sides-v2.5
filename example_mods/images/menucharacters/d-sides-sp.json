@@ -1,0 +1,10 @@
+{
+	"idle_anim": "spooky dance idle",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		374,
+		49
+	],
+	"scale": 0.45,
+	"image": "d-sides-sp"
+}

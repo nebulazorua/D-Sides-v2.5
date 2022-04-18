@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Firework22.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Firework20000" x="0" y="0" width="197" height="483" pivotX="666.05" pivotY="599.2" frameX="-467" frameY="-558" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20001" x="0" y="0" width="197" height="483" frameX="-467" frameY="-558" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20002" x="197" y="0" width="184" height="550" frameX="-477" frameY="-470" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20003" x="197" y="0" width="184" height="550" frameX="-477" frameY="-470" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20004" x="381" y="0" width="111" height="271" frameX="-478" frameY="-454" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20005" x="381" y="0" width="111" height="271" frameX="-478" frameY="-454" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20006" x="492" y="0" width="100" height="180" frameX="-488" frameY="-455" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20007" x="492" y="0" width="100" height="180" frameX="-488" frameY="-455" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20008" x="592" y="0" width="101" height="111" frameX="-488" frameY="-450" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20009" x="592" y="0" width="101" height="111" frameX="-488" frameY="-450" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20010" x="693" y="0" width="932" height="848" frameX="-90" frameY="-137" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20011" x="1625" y="0" width="1041" height="949" frameX="-47" frameY="-82" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20012" x="1625" y="0" width="1041" height="949" frameX="-47" frameY="-82" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20013" x="2666" y="0" width="1100" height="1029" frameX="-24" frameY="-38" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20014" x="2666" y="0" width="1100" height="1029" frameX="-24" frameY="-38" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20015" x="0" y="1029" width="1135" height="1072" frameX="-7" frameY="-14" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20016" x="0" y="1029" width="1135" height="1072" frameX="-7" frameY="-14" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20017" x="1135" y="1029" width="1151" height="1095"/>
+	<SubTexture name="Firework20018" x="2286" y="1029" width="1" height="1" frameX="-666" frameY="-599" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20019" x="2286" y="1029" width="1" height="1" frameX="-666" frameY="-599" frameWidth="1151" frameHeight="1095"/>
+	<SubTexture name="Firework20020" x="2286" y="1029" width="1" height="1" frameX="-666" frameY="-599" frameWidth="1151" frameHeight="1095"/>
+</TextureAtlas>

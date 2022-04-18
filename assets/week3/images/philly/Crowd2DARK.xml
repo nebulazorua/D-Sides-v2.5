@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crowd2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crowd2 instance 10000" x="0" y="0" width="1927" height="732" pivotX="518.65" pivotY="12.15"/>
+	<SubTexture name="Crowd2 instance 10001" x="0" y="0" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10002" x="0" y="732" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10003" x="0" y="732" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10004" x="0" y="1464" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10005" x="0" y="1464" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10006" x="0" y="2196" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10007" x="0" y="2196" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10008" x="0" y="2928" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10009" x="0" y="2928" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10010" x="0" y="2928" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10011" x="0" y="2928" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10012" x="0" y="2928" width="1927" height="732"/>
+	<SubTexture name="Crowd2 instance 10013" x="0" y="2928" width="1927" height="732"/>
+</TextureAtlas>

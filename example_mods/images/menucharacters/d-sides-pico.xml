@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_assetsDSidepico.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico menu asset0000" x="0" y="0" width="653" height="383" frameX="-17" frameY="-2" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0001" x="0" y="0" width="653" height="383" frameX="-17" frameY="-2" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0002" x="653" y="0" width="666" height="385" frameX="-11" frameY="0" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0003" x="653" y="0" width="666" height="385" frameX="-11" frameY="0" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0004" x="1319" y="0" width="672" height="372" frameX="-8" frameY="-13" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0005" x="1319" y="0" width="672" height="372" frameX="-8" frameY="-13" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0006" x="0" y="385" width="677" height="366" frameX="-4" frameY="-19" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0007" x="0" y="385" width="677" height="366" frameX="-4" frameY="-19" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0008" x="677" y="385" width="686" height="360" frameX="0" frameY="-25" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0009" x="677" y="385" width="686" height="360" frameX="0" frameY="-25" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0010" x="677" y="385" width="686" height="360" frameX="0" frameY="-25" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0011" x="677" y="385" width="686" height="360" frameX="0" frameY="-25" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0012" x="677" y="385" width="686" height="360" frameX="0" frameY="-25" frameWidth="686" frameHeight="385"/>
+	<SubTexture name="Pico menu asset0013" x="677" y="385" width="686" height="360" frameX="0" frameY="-25" frameWidth="686" frameHeight="385"/>
+</TextureAtlas>

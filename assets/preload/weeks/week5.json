@@ -1,0 +1,43 @@
+{
+	"storyName": "Rotten Eggs",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"parents",
+		"d-sbf",
+		"d-sides-gf"
+	],
+	"songs": [
+		[
+			"Green Eggs",
+			"parents",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Ham",
+			"parents",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Feaster",
+			"monstereaster",
+			[
+				160,
+				209,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5"
+}

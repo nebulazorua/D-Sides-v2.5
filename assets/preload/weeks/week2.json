@@ -1,0 +1,52 @@
+{
+	"storyName": "Sweet scares",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"d-sides-sp",
+		"d-sbf",
+		"d-sides-gf"
+	],
+	"songs": [
+		[
+			"Spookeez",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"South",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"ghastly",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Monster",
+			"monster",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

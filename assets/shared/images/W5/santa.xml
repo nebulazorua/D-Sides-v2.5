@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="santa.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="santa idle in fear0000" x="0" y="0" width="675" height="796" pivotX="19.25" pivotY="38.9"/>
+	<SubTexture name="santa idle in fear0001" x="675" y="0" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0002" x="1350" y="0" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0003" x="0" y="796" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0004" x="675" y="796" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0005" x="1350" y="796" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0006" x="0" y="1592" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0007" x="675" y="1592" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0008" x="1350" y="1592" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0009" x="0" y="2388" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0010" x="675" y="2388" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0011" x="1350" y="2388" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0012" x="0" y="2388" width="675" height="796"/>
+	<SubTexture name="santa idle in fear0013" x="675" y="2388" width="675" height="796"/>
+</TextureAtlas>

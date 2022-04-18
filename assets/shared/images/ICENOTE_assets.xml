@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Icenotes.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="186" height="184"/>
+	<SubTexture name="purple0000" x="186" y="0" width="179" height="177"/>
+	<SubTexture name="red0000" x="0" y="184" width="169" height="171"/>
+	<SubTexture name="green0000" x="169" y="184" width="168" height="174"/>
+</TextureAtlas>

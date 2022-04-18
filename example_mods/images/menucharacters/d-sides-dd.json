@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Dad idle dance BLACK",
+	"image": "d-sides-dd",
+	"position": [
+		324,
+		204
+	],
+	"scale": 0.5,
+	"confirm_anim": "M Dad Idle"
+}

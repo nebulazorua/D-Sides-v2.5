@@ -1,0 +1,43 @@
+{
+	"storyName": "bad hair day",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"d-sides-pico",
+		"d-sbf",
+		"d-sides-gf"
+	],
+	"songs": [
+		[
+			"Pico",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Philly Nice",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		],
+		[
+			"Blammed",
+			"pico",
+			[
+				148,
+				22,
+				83
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

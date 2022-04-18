@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Week1Audience.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AudienceBobbing0000" x="0" y="0" width="2488" height="604" pivotX="1147.55" pivotY="-139.35" frameX="0" frameY="-16" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0001" x="0" y="0" width="2488" height="604" frameX="0" frameY="-16" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0002" x="0" y="604" width="2462" height="613" frameX="-13" frameY="-7" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0003" x="0" y="604" width="2462" height="613" frameX="-13" frameY="-7" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0004" x="0" y="1217" width="2459" height="617" frameX="-15" frameY="-3" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0005" x="0" y="1217" width="2459" height="617" frameX="-15" frameY="-3" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0006" x="0" y="1834" width="2461" height="620" frameX="-14" frameY="-1" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0007" x="0" y="1834" width="2461" height="620" frameX="-14" frameY="-1" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0008" x="0" y="2454" width="2451" height="627" frameX="-19" frameY="0" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0009" x="0" y="2454" width="2451" height="627" frameX="-19" frameY="0" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0010" x="0" y="2454" width="2451" height="627" frameX="-19" frameY="0" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0011" x="0" y="2454" width="2451" height="627" frameX="-19" frameY="0" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0012" x="0" y="2454" width="2451" height="627" frameX="-19" frameY="0" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0013" x="0" y="2454" width="2451" height="627" frameX="-19" frameY="0" frameWidth="2488" frameHeight="627"/>
+	<SubTexture name="AudienceBobbing0014" x="0" y="2454" width="2451" height="627" frameX="-19" frameY="0" frameWidth="2488" frameHeight="627"/>
+</TextureAtlas>

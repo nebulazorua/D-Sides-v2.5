@@ -1,0 +1,31 @@
+{
+	"storyName": "hi deacon",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"too-slow",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "sonic exe Week"
+}

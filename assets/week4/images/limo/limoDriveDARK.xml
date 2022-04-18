@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="limoDriveDARK.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Limo stage0000" x="0" y="0" width="2661" height="769" pivotX="627.85" pivotY="53.05"/>
+	<SubTexture name="Limo stage0001" x="2661" y="0" width="2661" height="758" frameX="0" frameY="-11" frameWidth="2661" frameHeight="769"/>
+	<SubTexture name="Limo stage0002" x="5322" y="0" width="2661" height="761" frameX="0" frameY="-8" frameWidth="2661" frameHeight="769"/>
+	<SubTexture name="Limo stage0003" x="0" y="769" width="2661" height="759" frameX="0" frameY="-10" frameWidth="2661" frameHeight="769"/>
+	<SubTexture name="Limo stage0004" x="2661" y="769" width="2661" height="769"/>
+	<SubTexture name="Limo stage0005" x="5322" y="769" width="2661" height="758" frameX="0" frameY="-11" frameWidth="2661" frameHeight="769"/>
+	<SubTexture name="Limo stage0006" x="0" y="1538" width="2661" height="761" frameX="0" frameY="-8" frameWidth="2661" frameHeight="769"/>
+	<SubTexture name="Limo stage0007" x="2661" y="1538" width="2661" height="759" frameX="0" frameY="-10" frameWidth="2661" frameHeight="769"/>
+	<SubTexture name="Limo stage0008" x="5322" y="1538" width="2661" height="769"/>
+	<SubTexture name="Limo stage0009" x="0" y="2307" width="2661" height="758" frameX="0" frameY="-11" frameWidth="2661" frameHeight="769"/>
+	<SubTexture name="Limo stage0010" x="2661" y="2307" width="2661" height="761" frameX="0" frameY="-8" frameWidth="2661" frameHeight="769"/>
+	<SubTexture name="Limo stage0011" x="5322" y="2307" width="2661" height="759" frameX="0" frameY="-10" frameWidth="2661" frameHeight="769"/>
+	<SubTexture name="Limo stage0012" x="5322" y="1538" width="2661" height="769"/>
+	<SubTexture name="Limo stage0013" x="0" y="2307" width="2661" height="758" frameX="0" frameY="-11" frameWidth="2661" frameHeight="769"/>
+</TextureAtlas>

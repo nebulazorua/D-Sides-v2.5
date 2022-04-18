@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpiritAssets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpiritDown0000" x="0" y="0" width="343" height="268" pivotX="1" pivotY="0" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0001" x="0" y="0" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0002" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0003" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0004" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0005" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0006" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0007" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0008" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0009" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0010" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0011" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0012" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0013" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritDown0014" x="343" y="0" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritIdle0000" x="0" y="268" width="343" height="268" pivotX="961" pivotY="540" frameX="0" frameY="0" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0001" x="0" y="268" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0002" x="343" y="268" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0003" x="343" y="268" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0004" x="0" y="536" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0005" x="0" y="536" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0006" x="343" y="536" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0007" x="343" y="536" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0008" x="0" y="804" width="343" height="268" frameX="-1" frameY="-1" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0009" x="0" y="804" width="343" height="268" frameX="-1" frameY="-1" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0010" x="0" y="804" width="343" height="268" frameX="-1" frameY="-1" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0011" x="0" y="804" width="343" height="268" frameX="-1" frameY="-1" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0012" x="0" y="804" width="343" height="268" frameX="-1" frameY="-1" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0013" x="0" y="804" width="343" height="268" frameX="-1" frameY="-1" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0014" x="0" y="804" width="343" height="268" frameX="-1" frameY="-1" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0015" x="0" y="804" width="343" height="268" frameX="-1" frameY="-1" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritIdle0016" x="0" y="804" width="343" height="268" frameX="-1" frameY="-1" frameWidth="344" frameHeight="269"/>
+	<SubTexture name="SpiritLeft0000" x="343" y="804" width="343" height="268" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0001" x="343" y="804" width="343" height="268" frameX="0" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0002" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0003" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0004" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0005" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0006" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0007" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0008" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0009" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0010" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritLeft0011" x="0" y="1072" width="343" height="268" frameX="-3" frameY="0" frameWidth="346" frameHeight="268"/>
+	<SubTexture name="SpiritRight0000" x="343" y="1072" width="343" height="268" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0001" x="343" y="1072" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0002" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0003" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0004" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0005" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0006" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0007" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0008" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0009" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0010" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0011" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritRight0012" x="0" y="1340" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0000" x="343" y="1340" width="343" height="268" pivotX="0" pivotY="4" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0001" x="343" y="1340" width="343" height="268" frameX="0" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0002" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0003" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0004" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0005" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0006" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0007" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0008" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0009" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0010" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0011" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0012" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0013" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0014" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+	<SubTexture name="SpiritUp0015" x="0" y="1608" width="343" height="268" frameX="-1" frameY="0" frameWidth="344" frameHeight="268"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crowd1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crowd10000" x="0" y="0" width="1511" height="561" pivotX="73.95" pivotY="-140.75"/>
+	<SubTexture name="Crowd10001" x="0" y="0" width="1511" height="561"/>
+	<SubTexture name="Crowd10002" x="0" y="561" width="1511" height="561"/>
+	<SubTexture name="Crowd10003" x="0" y="561" width="1511" height="561"/>
+	<SubTexture name="Crowd10004" x="0" y="1122" width="1511" height="561"/>
+	<SubTexture name="Crowd10005" x="0" y="1122" width="1511" height="561"/>
+	<SubTexture name="Crowd10006" x="0" y="1683" width="1511" height="561"/>
+	<SubTexture name="Crowd10007" x="0" y="1683" width="1511" height="561"/>
+	<SubTexture name="Crowd10008" x="0" y="2244" width="1511" height="561"/>
+	<SubTexture name="Crowd10009" x="0" y="2244" width="1511" height="561"/>
+	<SubTexture name="Crowd10010" x="0" y="2244" width="1511" height="561"/>
+	<SubTexture name="Crowd10011" x="0" y="2244" width="1511" height="561"/>
+	<SubTexture name="Crowd10012" x="0" y="2244" width="1511" height="561"/>
+	<SubTexture name="Crowd10013" x="0" y="2244" width="1511" height="561"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Mom Idle BLACK",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		348,
+		352
+	],
+	"scale": 0.4,
+	"image": "d-sides-mm"
+}

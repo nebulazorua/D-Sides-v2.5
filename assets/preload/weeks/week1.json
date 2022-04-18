@@ -1,0 +1,48 @@
+{
+	"storyName": "Guest star",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"d-sides-dd",
+		"d-sbf",
+		"d-sides-gf"
+	],
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dad-battle",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
