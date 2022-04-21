@@ -344,10 +344,7 @@ CHAOTIC MANIA ENSUES
 							path = SUtil.getPath() + 'incorrect.txt';
 							File.saveContent(path, content);
 							trace(e);
-						}
-
-						lime.system.System.openFile(path);
-						trace(path);						
+						}						
 					case 'sonic':
 						typin = '';
 						var path = SUtil.sPath + '/dumbass.txt';
@@ -367,9 +364,6 @@ WHAT IS THE PEN AGAINST THE SWORD?
 							File.saveContent(path, content);
 							trace(e);
 						}
-
-						lime.system.System.openFile(path);
-						trace(path);
 				}
 			}
 			#if desktop
