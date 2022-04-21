@@ -3723,7 +3723,6 @@ BUT NOW THE SONG LIST HAS MY TUNE
 					File.saveContent(path, content);
 					trace(e);
 				}
-				lime.system.System.openFile(path);
 				FlxG.save.data.beatenTooSlow=true;
 				FlxG.save.flush();
 			}
