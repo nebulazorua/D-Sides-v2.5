@@ -88,16 +88,14 @@ class VisualsUISubState extends BaseOptionsMenu
 		option.changeValue = 0.1;
 		option.decimals = 1;
 		addOption(option);
-		
-		#if !mobile
+
 		var option:Option = new Option('FPS Counter',
 			'If unchecked, hides FPS Counter.',
 			'showFPS',
 			'bool',
-			true);
+			#if android false #else true #end);
 		addOption(option);
 		option.onChange = onChangeFPSCounter;
-		#end
 
 		super();
 	}
