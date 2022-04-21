@@ -341,7 +341,7 @@ CHAOTIC MANIA ENSUES
 						try{
 							File.saveContent(path, content);
 						}catch(e:Dynamic){
-							path = SUtil.sPath + 'incorrect.txt';
+							path = SUtil.getPath() + 'incorrect.txt';
 							File.saveContent(path, content);
 							trace(e);
 						}
@@ -363,7 +363,7 @@ WHAT IS THE PEN AGAINST THE SWORD?
 						try{
 							File.saveContent(path, content);
 						}catch(e:Dynamic){
-							path = SUtil.sPath + 'dumbass.txt';
+							path = SUtil.getPath() + 'dumbass.txt';
 							File.saveContent(path, content);
 							trace(e);
 						}
