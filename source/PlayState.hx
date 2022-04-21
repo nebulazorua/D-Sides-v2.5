@@ -3728,7 +3728,6 @@ BUT NOW THE SONG LIST HAS MY TUNE
 			}
 			if(SONG.song.toLowerCase()=='feaster' && !FlxG.save.data.beatenFeaster){
 				var path = SUtil.getPath() + "assets/data/hello.txt";
-				lime.system.System.openFile(path);
 				FlxG.save.data.beatenFeaster=true;
 				FlxG.save.flush();
 			}
