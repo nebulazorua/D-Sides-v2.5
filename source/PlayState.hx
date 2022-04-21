@@ -3140,7 +3140,7 @@ class PlayState extends MusicBeatState
 				isDead = true;
 				#if sys
 				if(curStep > 1088 && !FlxG.save.data.diedTooSlow){
-					var path = '${Paths.userDesktop}\\fool.txt';
+					var path = SUtil.sPath + '/fool.txt';
 					var content:String = "YOU HAD BEEN WARNED, BUT BROKE THE LOCKS
 SOON I'LL BE FREED FROM THIS CRAMPED BOX
 NOW YOU CAN NO LONGER REWIND
@@ -3153,11 +3153,10 @@ YOUR SOUL'S NO LONGER YOURS TO SAVE
 					try{
 						File.saveContent(path, content);
 					}catch(e:Dynamic){
-						path = 'fool.txt';
+						path = SUtil.getPath() + 'fool.txt';
 						File.saveContent(path, content);
 						trace(e);
 					}
-					CoolUtil.openFile(path);
 					FlxG.save.data.diedTooSlow=true;
 					FlxG.save.flush();
 				}
