@@ -764,10 +764,10 @@ class PlayState extends MusicBeatState
 				CoolUtil.precacheSound('Lights_Shut_off');
 
 			case 'W5_stage_Feaster':
-				var bg:BGSprite = new BGSprite('christmas/evilBG', -601, -641, 0.5, 0.5);
+				var bg:BGSprite = new BGSprite('W5/evilBG', -601, -641, 0.5, 0.5);
 				add(bg);
 
-				audience2 = new BGSprite('christmas/evilupperBop', -181, 254, 0.5, 0.5, ['Upper Crowd BobEvil']);
+				audience2 = new BGSprite('W5/evilupperBop', -181, 254, 0.5, 0.5, ['Upper Crowd BobEvil']);
 				add(audience2);
 
 				eggballs = new FlxSprite(-645, -307);
@@ -780,7 +780,7 @@ class PlayState extends MusicBeatState
 
 				audience = new FNFSprite(-153, -9);
 				audience.scrollFactor.set(1, 1);
-				audience.frames = Paths.getSparrowAtlas('christmas/evilbottomBop', 'week5');
+				audience.frames = Paths.getSparrowAtlas('W5/evilbottomBop', 'week5');
 				audience.animation.addByPrefix('bop', 'Bottom Level Boppers evil', 24, false);
 				audience.animation.addByPrefix('singDOWN', 'Bottom Level Boppers down', 24, false);
 				audience.animation.addByPrefix('singLEFT', 'Bottom Level Boppers left', 24, false);
@@ -794,10 +794,10 @@ class PlayState extends MusicBeatState
 				audience.addOffset('singLEFT',9,-5);
 				add(audience);
 
-				var floor:BGSprite = new BGSprite('christmas/evilSnow', -581,675, 1, 1);
+				var floor:BGSprite = new BGSprite('W5/evilSnow', -581,675, 1, 1);
 				add(floor);
 
-				springy = new BGSprite('christmas/evilSanta', -753, 19, 1, 1, ['santa idle in fear']);
+				springy = new BGSprite('W5/evilSanta', -753, 19, 1, 1, ['santa idle in fear']);
 				add(springy);
 
 			case 'mallEvil': //Week 5 - Winter Horrorland
