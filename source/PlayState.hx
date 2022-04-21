@@ -771,7 +771,7 @@ class PlayState extends MusicBeatState
 				add(audience2);
 
 				eggballs = new FlxSprite(-645, -307);
-				eggballs.frames = Paths.getSparrowAtlas('EggBursting', 'week5');
+				eggballs.frames = Paths.getSparrowAtlas('EggBursting');
 				eggballs.scrollFactor.set(0.6, 0.6);
 				eggballs.animation.addByPrefix('burst', 'EggBursting', 24, false);
 				eggballs.animation.addByPrefix('idle', 'EvilEgg', 24, false);
@@ -780,7 +780,7 @@ class PlayState extends MusicBeatState
 
 				audience = new FNFSprite(-153, -9);
 				audience.scrollFactor.set(1, 1);
-				audience.frames = Paths.getSparrowAtlas('W5/evilbottomBop', 'week5');
+				audience.frames = Paths.getSparrowAtlas('W5/evilbottomBop');
 				audience.animation.addByPrefix('bop', 'Bottom Level Boppers evil', 24, false);
 				audience.animation.addByPrefix('singDOWN', 'Bottom Level Boppers down', 24, false);
 				audience.animation.addByPrefix('singLEFT', 'Bottom Level Boppers left', 24, false);
