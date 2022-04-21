@@ -764,14 +764,14 @@ class PlayState extends MusicBeatState
 				CoolUtil.precacheSound('Lights_Shut_off');
 
 			case 'W5_stage_Feaster':
-				var bg:BGSprite = new BGSprite('christmas/evilbg', -601, -641, 0.5, 0.5);
+				var bg:BGSprite = new BGSprite('christmas/evilBG', -601, -641, 0.5, 0.5);
 				add(bg);
 
 				audience2 = new BGSprite('christmas/evilupperBop', -181, 254, 0.5, 0.5, ['Upper Crowd BobEvil']);
 				add(audience2);
 
-				eggballs = new FlxSprite(-645, -307).loadGraphic(Paths.image('EggBursting'));
-				eggballs.frames = Paths.getSparrowAtlas('EggBursting');
+				eggballs = new FlxSprite(-645, -307);
+				eggballs.frames = Paths.getSparrowAtlas('EggBursting', 'week5');
 				eggballs.scrollFactor.set(0.6, 0.6);
 				eggballs.animation.addByPrefix('burst', 'EggBursting', 24, false);
 				eggballs.animation.addByPrefix('idle', 'EvilEgg', 24, false);
@@ -780,8 +780,7 @@ class PlayState extends MusicBeatState
 
 				audience = new FNFSprite(-153, -9);
 				audience.scrollFactor.set(1, 1);
-				audience.loadGraphic(Paths.image('christmas/evilbottomBop'));
-				audience.frames = Paths.getSparrowAtlas('christmas/evilbottomBop');
+				audience.frames = Paths.getSparrowAtlas('christmas/evilbottomBop', 'week5');
 				audience.animation.addByPrefix('bop', 'Bottom Level Boppers evil', 24, false);
 				audience.animation.addByPrefix('singDOWN', 'Bottom Level Boppers down', 24, false);
 				audience.animation.addByPrefix('singLEFT', 'Bottom Level Boppers left', 24, false);
@@ -795,10 +794,10 @@ class PlayState extends MusicBeatState
 				audience.addOffset('singLEFT',9,-5);
 				add(audience);
 
-				var floor:BGSprite = new BGSprite('christmas/evilsnow', -581,675, 1, 1);
+				var floor:BGSprite = new BGSprite('christmas/evilSnow', -581,675, 1, 1);
 				add(floor);
 
-				springy = new BGSprite('christmas/evilsanta', -753, 19, 1, 1, ['santa idle in fear']);
+				springy = new BGSprite('christmas/evilSanta', -753, 19, 1, 1, ['santa idle in fear']);
 				add(springy);
 
 			case 'mallEvil': //Week 5 - Winter Horrorland
