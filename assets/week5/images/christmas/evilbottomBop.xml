@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bottomBopevil.png">
+<TextureAtlas imagePath="evilbottomBop.png">
 	<!-- Created with Adobe Animate version 19.2.1.408 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Bottom Level Boppers down0000" x="0" y="0" width="2122" height="735" pivotX="114.6" pivotY="116.05" frameX="0" frameY="-45" frameWidth="2122" frameHeight="781"/>

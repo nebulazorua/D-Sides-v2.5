@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="EggBursting.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="EggBursting0000" x="0" y="0" width="588" height="868" pivotX="1003" pivotY="311.1" frameX="-1003" frameY="-311" frameWidth="2616" frameHeight="1750"/>
+	<SubTexture name="EggBursting0000" x="0" y="0" width="588" height="868" frameX="-1003" frameY="-311" frameWidth="2616" frameHeight="1750"/>
 	<SubTexture name="EggBursting0001" x="0" y="0" width="588" height="868" frameX="-1003" frameY="-311" frameWidth="2616" frameHeight="1750"/>
 	<SubTexture name="EggBursting0002" x="0" y="0" width="588" height="868" frameX="-1003" frameY="-311" frameWidth="2616" frameHeight="1750"/>
 	<SubTexture name="EggBursting0003" x="0" y="0" width="588" height="868" frameX="-1003" frameY="-311" frameWidth="2616" frameHeight="1750"/>
@@ -138,4 +138,5 @@
 	<SubTexture name="EggBursting0133" x="0" y="4216" width="583" height="528" frameX="-1005" frameY="-650" frameWidth="2616" frameHeight="1750"/>
 	<SubTexture name="EggBursting0134" x="0" y="4216" width="583" height="528" frameX="-1005" frameY="-650" frameWidth="2616" frameHeight="1750"/>
 	<SubTexture name="EggBursting0135" x="0" y="4216" width="583" height="528" frameX="-1005" frameY="-650" frameWidth="2616" frameHeight="1750"/>
+	<SubTexture name="EvilEgg0000" x="583" y="4216" width="493" height="459"/>
 </TextureAtlas>
