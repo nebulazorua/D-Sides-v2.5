@@ -80,6 +80,9 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Android Port'],
+			['Saw (M.A. Jigsaw)','saw','Main Coder','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 'F73838'],
+			[''],
 			['Team Deez'],
 			['Cerulean', 'deez/ceru', 'Director/Artist', 'https://twitter.com/dastardlydeacon', 'D300FF'],
 			['FifLeo', 'deez/leo', 'Main Artist', 'https://twitter.com/fif_leo15', '00CE08'],
@@ -172,6 +175,11 @@ class CreditsState extends MusicBeatState
 		bg.color = getCurrentBGColor();
 		intendedColor = bg.color;
 		changeSelection();
+
+		#if android
+		addVirtualPad(UP_DOWN, A_B);
+		#end
+
 		super.create();
 	}
 

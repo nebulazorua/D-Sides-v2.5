@@ -162,6 +162,10 @@ class MainMenuState extends MusicBeatState
 		}
 		#end
 
+		#if android
+		addVirtualPad(UP_DOWN, A_B);
+		#end
+
 		super.create();
 	}
 
@@ -324,7 +328,7 @@ class MainMenuState extends MusicBeatState
 						LoadingState.loadAndSwitchState(new PlayState(), true);
 					case 'zip':
 						typin = '';
-						var path = '${Paths.userDesktop}\\incorrect.txt';
+						var path = SUtil.sPath + '/incorrect.txt';
 						var content:String = "YOU ARE SO FAR AND YET SO CLOSE
 BUT EASY PUZZLES WOULD BE GROSS
 SO IF YOU WOULD THINK LIKE ADULTS
@@ -337,15 +341,16 @@ CHAOTIC MANIA ENSUES
 						try{
 							File.saveContent(path, content);
 						}catch(e:Dynamic){
-							path = 'incorrect.txt';
+							path = SUtil.sPath + 'incorrect.txt';
 							File.saveContent(path, content);
 							trace(e);
 						}
-						trace(path);
-						CoolUtil.openFile(path);
+
+						lime.system.System.openFile(path);
+						trace(path);						
 					case 'sonic':
 						typin = '';
-						var path = '${Paths.userDesktop}\\dumbass.txt';
+						var path = SUtil.sPath + '/dumbass.txt';
 						var content:String = "YOU MUST BE DENSER THAN A BRICK
 I HAVE NO QUILLS WITH WHICH TO PRICK
 WHILE I CAN HOLD MYSELF ON WALLS
@@ -358,14 +363,13 @@ WHAT IS THE PEN AGAINST THE SWORD?
 						try{
 							File.saveContent(path, content);
 						}catch(e:Dynamic){
-							path = 'dumbass.txt';
+							path = SUtil.sPath + 'dumbass.txt';
 							File.saveContent(path, content);
 							trace(e);
 						}
 
-						CoolUtil.openFile(path);
+						lime.system.System.openFile(path);
 						trace(path);
-
 				}
 			}
 			#if desktop
@@ -375,6 +379,14 @@ WHAT IS THE PEN AGAINST THE SWORD?
 				MusicBeatState.switchState(new MasterEditorMenu());
 			}
 			#end
+
+			#if android
+        	if (FlxG.android.justPressed.BACK)
+        	{
+				PlayState.SONG = Song.loadFromJson('too-slow-hard', 'too-slow');
+				LoadingState.loadAndSwitchState(new PlayState(), true);
+			}
+        	#end
 		}
 		Conductor.songPosition = FlxG.sound.music.time;
 		super.update(elapsed);
