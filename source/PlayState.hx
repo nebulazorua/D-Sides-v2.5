@@ -797,7 +797,7 @@ class PlayState extends MusicBeatState
 				var floor:BGSprite = new BGSprite('W5/evilSnow', -581,675, 1, 1);
 				add(floor);
 
-				springy = new BGSprite('W5/evilSanta', -753, 19, 1, 1, ['santa idle in fear']);
+				springy = new BGSprite('W5/evilsanta', -753, 19, 1, 1, ['santa idle in fear']);
 				add(springy);
 
 			case 'mallEvil': //Week 5 - Winter Horrorland
