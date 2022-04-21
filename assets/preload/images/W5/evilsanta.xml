@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="santaevil.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="santa idle in fear evil instance 10000" x="0" y="0" width="630" height="751" pivotX="-36.05" pivotY="28.95" frameX="0" frameY="-29" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10001" x="630" y="0" width="628" height="750" frameX="-1" frameY="-29" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10002" x="1258" y="0" width="625" height="752" frameX="-2" frameY="-27" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10003" x="0" y="752" width="625" height="753" frameX="-2" frameY="-27" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10004" x="625" y="752" width="617" height="760" frameX="-6" frameY="-19" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10005" x="1242" y="752" width="619" height="761" frameX="-5" frameY="-19" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10006" x="0" y="1513" width="617" height="765" frameX="-6" frameY="-15" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10007" x="617" y="1513" width="615" height="764" frameX="-7" frameY="-15" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10008" x="1232" y="1513" width="617" height="778" frameX="-6" frameY="-2" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10009" x="0" y="2291" width="617" height="780" frameX="-6" frameY="0" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10010" x="617" y="2291" width="615" height="779" frameX="-7" frameY="0" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10011" x="1232" y="2291" width="617" height="780" frameX="-6" frameY="0" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10012" x="0" y="2291" width="617" height="780" frameX="-6" frameY="0" frameWidth="630" frameHeight="780"/>
+	<SubTexture name="santa idle in fear evil instance 10013" x="617" y="2291" width="615" height="779" frameX="-7" frameY="0" frameWidth="630" frameHeight="780"/>
+</TextureAtlas>

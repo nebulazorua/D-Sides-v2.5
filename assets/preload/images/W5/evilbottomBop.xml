@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evilbottomBop.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bottom Level Boppers down0000" x="0" y="0" width="2122" height="735" pivotX="114.6" pivotY="116.05" frameX="0" frameY="-45" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0001" x="2122" y="0" width="2121" height="734" frameX="-1" frameY="-46" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0002" x="4243" y="0" width="2103" height="780" frameX="-10" frameY="-1" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0003" x="0" y="780" width="2102" height="781" frameX="-11" frameY="0" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0004" x="2102" y="780" width="2102" height="780" frameX="-11" frameY="-1" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0005" x="4243" y="0" width="2103" height="780" frameX="-10" frameY="-1" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0006" x="0" y="780" width="2102" height="781" frameX="-11" frameY="0" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0007" x="2102" y="780" width="2102" height="780" frameX="-11" frameY="-1" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0008" x="4243" y="0" width="2103" height="780" frameX="-10" frameY="-1" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0009" x="0" y="780" width="2102" height="781" frameX="-11" frameY="0" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0010" x="2102" y="780" width="2102" height="780" frameX="-11" frameY="-1" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0011" x="4243" y="0" width="2103" height="780" frameX="-10" frameY="-1" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0012" x="0" y="780" width="2102" height="781" frameX="-11" frameY="0" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers down0013" x="2102" y="780" width="2102" height="780" frameX="-11" frameY="-1" frameWidth="2122" frameHeight="781"/>
+	<SubTexture name="Bottom Level Boppers evil0000" x="4204" y="780" width="2087" height="797" pivotX="95.6" pivotY="138.2" frameX="0" frameY="-8" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0001" x="0" y="1577" width="2086" height="796" frameX="-1" frameY="-9" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0002" x="2086" y="1577" width="2079" height="798" frameX="-5" frameY="-7" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0003" x="4165" y="1577" width="2078" height="798" frameX="-6" frameY="-7" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0004" x="0" y="2375" width="2072" height="803" frameX="-8" frameY="-3" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0005" x="2072" y="2375" width="2071" height="803" frameX="-9" frameY="-3" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0006" x="4143" y="2375" width="2072" height="806" frameX="-8" frameY="0" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0007" x="0" y="3181" width="2071" height="805" frameX="-9" frameY="-1" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0008" x="2071" y="3181" width="2072" height="805" frameX="-8" frameY="-1" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0009" x="4143" y="3181" width="2072" height="806" frameX="-8" frameY="0" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0010" x="0" y="3987" width="2071" height="804" frameX="-9" frameY="-1" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0011" x="2071" y="3181" width="2072" height="805" frameX="-8" frameY="-1" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0012" x="4143" y="3181" width="2072" height="806" frameX="-8" frameY="0" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers evil0013" x="0" y="3987" width="2071" height="804" frameX="-9" frameY="-1" frameWidth="2087" frameHeight="806"/>
+	<SubTexture name="Bottom Level Boppers left0000" x="2071" y="3987" width="2096" height="795" pivotX="101.8" pivotY="135.5" frameX="0" frameY="-7" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0001" x="4167" y="3987" width="2095" height="794" frameX="-1" frameY="-8" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0002" x="0" y="4791" width="2092" height="801" frameX="-3" frameY="0" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0003" x="2092" y="4791" width="2092" height="802" frameX="-3" frameY="0" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0004" x="4184" y="4791" width="2091" height="801" frameX="-4" frameY="-1" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0005" x="0" y="4791" width="2092" height="801" frameX="-3" frameY="0" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0006" x="2092" y="4791" width="2092" height="802" frameX="-3" frameY="0" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0007" x="4184" y="4791" width="2091" height="801" frameX="-4" frameY="-1" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0008" x="0" y="4791" width="2092" height="801" frameX="-3" frameY="0" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0009" x="2092" y="4791" width="2092" height="802" frameX="-3" frameY="0" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0010" x="4184" y="4791" width="2091" height="801" frameX="-4" frameY="-1" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0011" x="0" y="4791" width="2092" height="801" frameX="-3" frameY="0" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0012" x="2092" y="4791" width="2092" height="802" frameX="-3" frameY="0" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0013" x="4184" y="4791" width="2091" height="801" frameX="-4" frameY="-1" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers left0014" x="0" y="4791" width="2092" height="801" frameX="-3" frameY="0" frameWidth="2096" frameHeight="802"/>
+	<SubTexture name="Bottom Level Boppers right0000" x="0" y="5593" width="2079" height="802" pivotX="92.65" pivotY="137.15" frameX="-2" frameY="-2" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0001" x="2079" y="5593" width="2079" height="801" frameX="-2" frameY="-3" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0002" x="4158" y="5593" width="2081" height="803" frameX="0" frameY="0" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0003" x="0" y="6396" width="2081" height="803" frameX="0" frameY="-1" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0004" x="2081" y="6396" width="2081" height="803" frameX="0" frameY="-1" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0005" x="4158" y="5593" width="2081" height="803" frameX="0" frameY="0" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0006" x="0" y="6396" width="2081" height="803" frameX="0" frameY="-1" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0007" x="2081" y="6396" width="2081" height="803" frameX="0" frameY="-1" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0008" x="4158" y="5593" width="2081" height="803" frameX="0" frameY="0" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0009" x="0" y="6396" width="2081" height="803" frameX="0" frameY="-1" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0010" x="2081" y="6396" width="2081" height="803" frameX="0" frameY="-1" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0011" x="4158" y="5593" width="2081" height="803" frameX="0" frameY="0" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0012" x="0" y="6396" width="2081" height="803" frameX="0" frameY="-1" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers right0013" x="2081" y="6396" width="2081" height="803" frameX="0" frameY="-1" frameWidth="2081" frameHeight="804"/>
+	<SubTexture name="Bottom Level Boppers up0000" x="4162" y="6396" width="2101" height="761" pivotX="88.95" pivotY="95.05" frameX="0" frameY="-4" frameWidth="2101" frameHeight="765"/>
+	<SubTexture name="Bottom Level Boppers up0001" x="0" y="7199" width="2101" height="760" frameX="0" frameY="-5" frameWidth="2101" frameHeight="765"/>
+	<SubTexture name="Bottom Level Boppers up0002" x="2101" y="7199" width="2072" height="762" frameX="-5" frameY="-1" frameWidth="2101" frameHeight="765"/>
+	<SubTexture name="Bottom Level Boppers up0003" x="4173" y="7199" width="2072" height="764" frameX="-5" frameY="0" frameWidth="2101" frameHeight="765"/>
+	<SubTexture name="Bottom Level Boppers up0005" x="2101" y="7199" width="2072" height="762" frameX="-5" frameY="-1" frameWidth="2101" frameHeight="765"/>
+	<SubTexture name="Bottom Level Boppers up0006" x="4173" y="7199" width="2072" height="764" frameX="-5" frameY="0" frameWidth="2101" frameHeight="765"/>
+	<SubTexture name="Bottom Level Boppers up0008" x="2101" y="7199" width="2072" height="762" frameX="-5" frameY="-1" frameWidth="2101" frameHeight="765"/>
+	<SubTexture name="Bottom Level Boppers up0009" x="4173" y="7199" width="2072" height="764" frameX="-5" frameY="0" frameWidth="2101" frameHeight="765"/>
+	<SubTexture name="Bottom Level Boppers up0011" x="2101" y="7199" width="2072" height="762" frameX="-5" frameY="-1" frameWidth="2101" frameHeight="765"/>
+	<SubTexture name="Bottom Level Boppers up0012" x="4173" y="7199" width="2072" height="764" frameX="-5" frameY="0" frameWidth="2101" frameHeight="765"/>
+</TextureAtlas>

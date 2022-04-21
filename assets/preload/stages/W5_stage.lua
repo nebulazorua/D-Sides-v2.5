@@ -23,7 +23,7 @@ function onCreate()
 	addLuaSprite('Audience', false)
 	objectPlayAnimation ('Audience', 'IdleEaster', false);
 
-	makeLuaSprite('floor','W5/fgsnow',-581,675)
+	makeLuaSprite('floor','W5/fgSnow',-581,675)
 	addLuaSprite('floor', false);
 
 	makeAnimatedLuaSprite('springtrap', 'W5/santa', -861, 158)
